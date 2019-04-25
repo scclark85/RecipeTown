@@ -11,7 +11,7 @@ Sequalize, npm-modules, express
 
 Edama API
 
-Heroku for site deployment
+Heroku for site deployment.  Click to check out [here](https://recipe-town.herokuapp.com/).
 
 ### Future dev
 Allow users to sign up for account in order to save recipes
